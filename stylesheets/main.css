@@ -47,8 +47,8 @@ img {
 }
 
 main {
-	min-height: calc(100vh - 230px - 120.365px);
-	padding-top: 230px;
+	min-height: calc(100vh - 275px - 120.365px);
+	padding-top: 275px;
 }
 
 #main-title {
